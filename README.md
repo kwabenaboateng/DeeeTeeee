@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/67607955080161.597768d22e415.gif)
 <h1 align="center">Hi 👋, I'm David O. Anifowoshe</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/racetrack.gif">
+<img align="right" alt="Coding" width="400" src="https://engineering.case.edu/sites/default/files/styles/_none/public/computer-data-science.jpg?itok=FhS2wtaH">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeeteeee&label=Profile%20views&color=0e75b6&style=flat" alt="deeeteeee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeeteeee" alt="deeeteeee" /></a> </p>
