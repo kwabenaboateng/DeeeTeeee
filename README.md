@@ -15,7 +15,7 @@
 - 💬 Ask me about **Data Analytics, Data Science**
 
 - 📫 How to reach me **david.olatomiwa@yandex.com**
-- <img align="right" alt="Coding" width="700" src="https://engineering.case.edu/sites/default/files/styles/_none/public/computer-data-science.jpg?itok=FhS2wtaH">
+- <img align="right" alt="Coding" width="600" src="https://engineering.case.edu/sites/default/files/styles/_none/public/computer-data-science.jpg?itok=FhS2wtaH">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
