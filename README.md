@@ -1,7 +1,7 @@
-[![MasterHead](https://www.cio.com/wp-content/uploads/2022/11/iStock-1321307821.jpg?resize=1024%2C576&quality=50&strip=all)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/67607955080161.597768d22e415.gif)
 <h1 align="center">Hi 👋, I'm David O. Anifowoshe</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://bpb-us-e1.wpmucdn.com/wp.wwu.edu/dist/1/4146/files/2018/11/SUV4-1f7q527.gif">
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/racetrack.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeeteeee&label=Profile%20views&color=0e75b6&style=flat" alt="deeeteeee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeeteeee" alt="deeeteeee" /></a> </p>
